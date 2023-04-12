@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=purp1eeeee&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=mrskiro&color=blueviolet)
 
 <!--
-**purp1eeeee/purp1eeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mrskiro/mrskiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purp1eeeee&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrskiro&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purp1eeeee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrskiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purp1eeeee&repo=murasaki)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrskiro&repo=murasaki)](https://github.com/anuraghazra/github-readme-stats)
 -->
